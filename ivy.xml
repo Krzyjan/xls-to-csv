@@ -1,0 +1,9 @@
+<ivy-module version="1.0">
+    <info organisation="org.krzyjan" module="utilities"/>
+    <dependencies>
+    	<dependency org="org.scala-lang" name="scala-library" rev="2.11.2"/>
+        <dependency org="org.scalatest" name="scalatest_2.11" rev="2.2.1"/>
+        <dependency org="org.apache.poi" name="poi" rev="3.10-FINAL"/>
+        <dependency org="org.apache.poi" name="poi-ooxml" rev="3.10-FINAL"/>
+    </dependencies>
+</ivy-module>
